@@ -1,21 +1,14 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+There were plans to meet with Alex and the rest of the Observatory team over the weekend, but everyone was busy with the career fair and nothing happened.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+The plan for this week is to identify bugs in Observatory and work toward fixing them
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+I'm unfamiliar with the structure of Observatory, nor do I know how to find out what needs to be worked on
 
 ## Notes
 
